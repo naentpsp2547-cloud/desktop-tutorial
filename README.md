@@ -1,6 +1,5 @@
-<!-- Banner / Cover -->
 <p align="center">
-  <img src="![281417172_1367937110285255_1863668962219272421_n](https://github.com/user-attachments/assets/e8c4f329-94c9-4990-8a2e-d3995a342b56)" alt="header image" />
+  <img src="https://github.com/user-attachments/assets/d27d29eb-fc45-4491-8338-d38eefab622e" alt="header image" />
 </p>
 
 <h1 align="center">
@@ -73,7 +72,7 @@
 
 - 💌 Email: netiporn.2647@gmail.com
 - 📱 Phone: 098-661-8846
-- 💼 LinkedIn: <a href="(https://line.me/ti/p/Ans7dW1f-K)" target="_blank">naenetiporn</a>
+- 💼 LinkedIn: <a href="https://line.me/ti/p/Ans7dW1f-K" target="_blank">naenetiporn</a>
 - 📸 Instagram: <a href="https://www.instagram.com/nay.ntp__?igsh=M2E5MjBzeXdhcmF4&utm_source=qr" target="_blank">@nay.ntp__</a>
 - 📘 Facebook: <a href="https://www.facebook.com/share/1BbHLgDpjF/?mibextid=wwXIfr" target="_blank">Netiporn Sinpiang</a>
 
