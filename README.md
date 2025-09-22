@@ -1,6 +1,7 @@
 <!-- Banner / Cover -->
 <p align="center">
-  <img src="ใส่ลิงก์รูป Banner ของคุณตรงนี้" alt="header image" />
+  <img src="![281417172_1367937110285255_1863668962219272421_n](https://github.com/user-attachments/assets/e8c4f329-94c9-4990-8a2e-d3995a342b56)
+" alt="header image" />
 </p>
 
 <h1 align="center">
@@ -73,7 +74,9 @@
 
 - 💌 Email: netiporn.2647@gmail.com
 - 📱 Phone: 098-661-8846
-- 💼 LinkedIn: ⟪url⟫
+- 💼 LinkedIn: https://line.me/ti/p/Ans7dW1f-K
+- 📸 Instagram: https://www.instagram.com/nay.ntp__?igsh=M2E5MjBzeXdhcmF4&utm_source=qr
+- 📘 Facebook: https://www.facebook.com/share/1BbHLgDpjF/?mibextid=wwXIfr
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
